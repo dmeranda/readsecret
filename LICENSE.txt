@@ -1,0 +1,13 @@
+Licence for "readsecret" by Deron Meranda
+http://deron.meranda.us/computing/c/readsecret/
+
+
+This code (including the files "readsecret.h" and "readsecret.c") is
+hereby released into the PUBLIC DOMAIN.
+
+As some countries or jurisdictions may not legally acknowledge
+PUBLIC DOMAIN, I also hereby release this under the terms of
+the "Creative Commons CC0 1.0 Universal" (CC0 1.0) license,
+which can be read in full at:
+       http://creativecommons.org/publicdomain/zero/1.0/
+
