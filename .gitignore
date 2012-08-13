@@ -10,3 +10,12 @@
 *.lai
 *.la
 *.a
+
+# SCons (make) temporary files
+*.os
+.sconf_temp
+.sconsign.dblite
+config.log
+
+# Compiled programs
+testpass
